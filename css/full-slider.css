@@ -1,3 +1,7 @@
+.navbar-brand {
+  color: #F7A1EC !important;
+}
+
 html, body {
 	height:100%;
 }
