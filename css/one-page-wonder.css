@@ -15,6 +15,10 @@ body {
     border-color: #FADADD !important;
 }
 
+.page-header {
+    border-bottom: 1px solid #FADADD !important;
+}
+
 .header-image {
 	background: url(http://placehold.it/200x300) repeat;/* Use a tiling background image or a full width image - if you're using full width you will need to change no-repeat center center cover  */
 	background-position: top;
