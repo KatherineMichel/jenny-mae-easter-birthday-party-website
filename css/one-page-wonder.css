@@ -3,15 +3,14 @@ body {
 }
 
 body {
-  //*background: url(../images/image15.JPG) no-repeat center center fixed;*//
-  background-color: #FFD6FF;
+  background: url(../images/image15.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 
-navbar-inner { background-color: #FFD6FF !important;
+navbar-inner { background-color: #FADADD !important;
 }
 
 
