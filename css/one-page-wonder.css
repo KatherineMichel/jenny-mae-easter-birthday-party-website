@@ -11,8 +11,8 @@ body {
 }
 
 .navbar-default {
-    background-color: #FADADD;
-    border-color: #FADADD;
+    background-color: #FADADD !important;
+    border-color: #FADADD !important;
 }
 
 .header-image {
