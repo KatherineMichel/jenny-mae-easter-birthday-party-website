@@ -1,4 +1,8 @@
 body {
+	margin-top: 50px; /* 50px is the height of the navbar - change this if the navbarn height changes */
+}
+
+body {
   background: url(../images/image15.JPG) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -16,10 +20,6 @@ body {
 }
 
 //*One-page Wonder*//
-
-body {
-	margin-top: 50px; /* 50px is the height of the navbar - change this if the navbarn height changes */
-}
 
 .header-image {
 	background: url(http://placehold.it/200x300) repeat;/* Use a tiling background image or a full width image - if you're using full width you will need to change no-repeat center center cover  */
