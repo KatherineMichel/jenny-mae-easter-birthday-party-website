@@ -3,7 +3,7 @@ body {
 }
 
 body {
-  background: url(../images/image15.JPG) no-repeat center center fixed;
+  background: url(../images/background.JPG) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -18,6 +18,8 @@ body {
 .page-header {
     border-bottom: 1px solid #FFE3EB !important;
 }
+
+//*One-page Wonder*//
 
 .header-image {
 	background: url(http://placehold.it/200x300) repeat;/* Use a tiling background image or a full width image - if you're using full width you will need to change no-repeat center center cover  */
