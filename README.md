@@ -1,4 +1,4 @@
-jenny-mae-easter-birthday-party-website
-=======================================
-See gh-pages branch for files <br>
+# Jenny Mae's Easter Birthday Party Website
+
+A Bootstrap prototype; See gh-pages branch for files
 
